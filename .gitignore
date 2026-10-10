@@ -1,0 +1,4 @@
+node_modules
+dist
+.env
+failed_records.json
